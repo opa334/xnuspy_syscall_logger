@@ -1,0 +1,9 @@
+Package: com.opa334.xnuspy-jb-detection-bypass
+Name: xnuspy_jb_detection_bypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: opa334
+Author: opa334
+Section: System
+Tag: role::hacker
